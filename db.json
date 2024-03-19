@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "Adam",
+      "email": "adam@gm.com",
+      "password": "1234",
+      "id": "6de9"
+    },
+    {
+      "id": "549a",
+      "username": "admin",
+      "email": "admin@gm.com",
+      "password": "123"
+    }
+  ],
+  "Employees": [
+    {
+      "id": "0",
+      "name": "raja",
+      "designation": "qwq",
+      "email": "raja@gm.com",
+      "achievement": "rr"
+    }
+  ]
+}
